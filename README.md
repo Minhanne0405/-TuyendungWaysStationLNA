@@ -138,3 +138,56 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ứng tuyển thành công</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0; padding: 0;
+      background-color: #e0f7e9;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      text-align: center;
+    }
+    .message {
+      max-width: 700px;
+      padding: 40px;
+      background-color: white;
+      border-radius: 12px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    }
+    h1 {
+      color: #28a745;
+    }
+    p {
+      font-size: 18px;
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background: #007bff;
+      color: white;
+      border-radius: 5px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+<div class="message">
+  <h1>🎉 Ứng tuyển thành công!</h1>
+  <p>Cảm ơn bạn đã ứng tuyển.</p>
+  <p>Chúng tôi sẽ liên hệ lại với bạn trong thời gian sớm nhất.</p>
+  <p>Hẹn gặp lại bạn tại Ways Station LNA!</p>
+  <a href="index.html">⬅ Quay lại trang ứng tuyển</a>
+</div>
+
+</body>
+</html>
